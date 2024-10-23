@@ -1,3 +1,7 @@
-# 2024_25
-prueba de clase
-cambio 1 del readme
+· • —– ٠ ✤ ٠ —– • ·
+# Ángel 23/10%2025
+Mi 3 Comit
+
+#Info que tiene que tener:
+Qué hace el proyecto.
+Por qué el proyecto es útil.
