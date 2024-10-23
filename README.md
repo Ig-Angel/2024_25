@@ -4,4 +4,4 @@ Mi 3 Comit
 
 #Info que tiene que tener:
 Qué hace el proyecto.
-Por qué el proyecto es útil.
+· • —– ٠ ✤ ٠ —– • ·
