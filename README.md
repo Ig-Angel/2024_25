@@ -1,6 +1,8 @@
 · • —– ٠ ✤ ٠ —– • ·
+
 # Ángel 23/10/2025
 Mi 7 Comit del Main
+
 
 #Info que tiene que tener:
 Qué hace el proyecto.
