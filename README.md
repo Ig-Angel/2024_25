@@ -1,7 +1,8 @@
 · • —– ٠ ✤ ٠ —– • ·
 
 # Ángel 23/10/2025
-Mi 6 Comit en Branch
+Mi 7 Comit del Main
+
 
 #Info que tiene que tener:
 Qué hace el proyecto.
